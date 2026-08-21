@@ -1,0 +1,15 @@
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/bin/Debug/net8.0/TaskApp.Application.deps.json
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/bin/Debug/net8.0/TaskApp.Application.dll
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/bin/Debug/net8.0/TaskApp.Application.pdb
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/bin/Debug/net8.0/TaskApp.Domain.dll
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/bin/Debug/net8.0/TaskApp.Domain.pdb
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.csproj.AssemblyReference.cache
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.AssemblyInfoInputs.cache
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.AssemblyInfo.cs
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.csproj.CoreCompileInputs.cache
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.csproj.CopyComplete
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.dll
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/refint/TaskApp.Application.dll
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.pdb
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/ref/TaskApp.Application.dll

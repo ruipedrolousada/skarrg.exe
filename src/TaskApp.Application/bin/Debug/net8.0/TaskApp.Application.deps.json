@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskApp.Application/1.0.0": {
+        "dependencies": {
+          "TaskApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaskApp.Application.dll": {}
+        }
+      },
+      "TaskApp.Domain/1.0.0": {
+        "runtime": {
+          "TaskApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TaskApp.Domain;
+using TaskApp.Domain.Entities;
 
 namespace TaskApp.Infrastructure.Persistence;
 

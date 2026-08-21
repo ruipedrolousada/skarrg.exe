@@ -10,9 +10,9 @@ public sealed class TaskDto
 
     public string? Description { get; init; }
 
-    public TaskStatusNow Status { get; init; }
+    public TaskItemStatus Status { get; init; }
 
-    public TaskPriorityNow Priority { get; init; }
+    public TaskPriority Priority { get; init; }
 
     public DateTime? DueDate { get; init; }
 

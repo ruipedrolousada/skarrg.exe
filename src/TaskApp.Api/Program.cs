@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using TaskApp.Application.Interfaces;
-using TaskApp.Application.Services;
+using TaskApp.Application.Tasks.CompleteTask;
+using TaskApp.Application.Tasks.CreateTask;
+using TaskApp.Application.Tasks.GetTaskById;
 using TaskApp.Infrastructure.Persistence;
 using TaskApp.Infrastructure.Repositories;
 
@@ -18,7 +20,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
-builder.Services.AddScoped<ITaskService, TaskService>();
+builder.Services.AddScoped<CreateTaskUseCase>();
+builder.Services.AddScoped<GetTaskByIdUseCase>();
+builder.Services.AddScoped<CompleteTaskUseCase>();
 
 var app = builder.Build();
 

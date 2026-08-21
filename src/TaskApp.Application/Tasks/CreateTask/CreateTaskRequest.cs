@@ -1,6 +1,6 @@
 using TaskApp.Domain.Enums;
 
-namespace TaskApp.Application.DTOs;
+namespace TaskApp.Application.Tasks.CreateTask;
 
 public sealed class CreateTaskRequest
 {
@@ -8,7 +8,7 @@ public sealed class CreateTaskRequest
 
     public string? Description { get; init; }
 
-    public TaskPriorityNow Priority { get; init; }
+    public TaskPriority Priority { get; init; }
 
     public DateTime? DueDate { get; init; }
 }

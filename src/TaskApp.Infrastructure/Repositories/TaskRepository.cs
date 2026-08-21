@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using TaskApp.Application.Interfaces;
-using TaskApp.Domain;
+using TaskApp.Domain.Entities;
 using TaskApp.Infrastructure.Persistence;
 
 namespace TaskApp.Infrastructure.Repositories;

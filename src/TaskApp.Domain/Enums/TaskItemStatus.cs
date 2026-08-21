@@ -1,5 +1,6 @@
 namespace TaskApp.Domain.Enums;
-public enum TaskStatusNow
+
+public enum TaskItemStatus
 {
     ToDo,
     InProgress,

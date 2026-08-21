@@ -17,3 +17,4 @@
 /home/rp/Rui/skarrg.exe/src/TaskApp.Infrastructure/obj/Debug/net8.0/ref/TaskApp.Infrastructure.dll
 /home/rp/Rui/skarrg.exe/src/TaskApp.Infrastructure/bin/Debug/net8.0/TaskApp.Infrastructure.runtimeconfig.json
 /home/rp/Rui/skarrg.exe/src/TaskApp.Infrastructure/obj/Debug/net8.0/TaskApp.Infrastructure.genruntimeconfig.cache
+/home/rp/Rui/skarrg.exe/src/TaskApp.Infrastructure/obj/Debug/net8.0/TaskApp.Infrastructure.sourcelink.json

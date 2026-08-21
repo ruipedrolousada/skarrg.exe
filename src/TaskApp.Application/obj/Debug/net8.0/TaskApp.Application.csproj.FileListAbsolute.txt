@@ -13,3 +13,4 @@
 /home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/refint/TaskApp.Application.dll
 /home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.pdb
 /home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/ref/TaskApp.Application.dll
+/home/rp/Rui/skarrg.exe/src/TaskApp.Application/obj/Debug/net8.0/TaskApp.Application.sourcelink.json

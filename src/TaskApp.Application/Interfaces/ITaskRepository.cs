@@ -1,4 +1,4 @@
-using TaskApp.Domain;
+using TaskApp.Domain.Entities;
 
 namespace TaskApp.Application.Interfaces;
 

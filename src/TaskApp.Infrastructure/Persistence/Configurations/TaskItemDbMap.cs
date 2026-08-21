@@ -1,11 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using TaskApp.Domain;
+using TaskApp.Domain.Entities;
 
 namespace TaskApp.Infrastructure.Persistence.Configurations;
 
-public sealed class TaskItemConfiguration
-    : IEntityTypeConfiguration<TaskItem>
+public sealed class TaskItemDbMap : IEntityTypeConfiguration<TaskItem>
 {
     public void Configure(EntityTypeBuilder<TaskItem> builder)
     {

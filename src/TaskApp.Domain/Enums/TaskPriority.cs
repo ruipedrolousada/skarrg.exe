@@ -1,6 +1,6 @@
 namespace TaskApp.Domain.Enums;
 
-public enum TaskPriorityNow
+public enum TaskPriority
 {
     Low,
     Medium,
